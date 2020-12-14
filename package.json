@@ -1,0 +1,25 @@
+{
+  "name": "experiment",
+  "version": "1.0.0",
+  "description": "a change",
+  "main": "script.js",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "play":"live-server",
+    "update":"browserify script.js > build1.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aravindh1801/Experiment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aravindh1801/Experiment/issues"
+  },
+  "homepage": "https://github.com/Aravindh1801/Experiment#readme"
+}

@@ -1,3 +1,7 @@
+var _ = require('lodash');
+var a = [1,2,3,4,5];
+console.log("Answer:",_.without(a,2));
+
 var list=[
 
   {
@@ -50,8 +54,4 @@ function adding(){
      Branch:c,
      RollNo:d
    };
- };
-
- function adding1() {
-   list=
  };
